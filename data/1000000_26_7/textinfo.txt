@@ -1,0 +1,2 @@
+Amount of sentences = 100555
+Vocab size = 207668
