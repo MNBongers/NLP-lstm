@@ -4,8 +4,6 @@ Code and data used in my bachelors thesis
 This directory contains most of the files used in my thesis, more specific instructions are inside the notebooks. All of the notebooks are made
 with the assumption that it's being run out of the directory its currently in.
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
 The data folder contains subfolders with the names of the corpera. These subfolders contain the model, the corpus and information about the corpus and model. Instructions about how to run the trained models are inside the notebook 'LSTM language model'.
 
 The LSTM language model file containts the training procedure and data cleaning, as well as text generation.
